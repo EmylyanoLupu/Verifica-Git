@@ -2,5 +2,6 @@ ATTIVITA'
 
 1- Registrazione atleti
 2- Controllo peso
-3- Riunione giudici
-4- match
+3- Riunione giudici e arbitri
+4- match 
+5- premiazioni
