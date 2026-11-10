@@ -1,3 +1,5 @@
 luogo: GIAVENO
-orario di apertura: 8.40 MATTINO
+
+orario di apertura: 8.20 MATTINO
+>>>>>>> orario-alternativo
 modalità di partecipazione: ISCRIZIONE DA PARTE DEL PROPRIO TEAM
