@@ -5,3 +5,5 @@ ATTIVITA'
 3- Riunione giudici e arbitri
 4- match 
 5- premiazioni
+6- spettacolo finale tra gli allenatori combattenti
+7- discorso dei vincitori in maglia azzurra
